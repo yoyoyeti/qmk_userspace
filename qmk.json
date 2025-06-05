@@ -1,6 +1,7 @@
 {
-    "userspace_version": "1.0",
+    "userspace_version": "1.1",
     "build_targets": [
-        ["all", "miryoku"]
+        ["all", "miryoku"],
+        ["ploopyco/trackball_mini/rev1_001", "yoyoyeti"]
     ]
 }
